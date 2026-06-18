@@ -8,6 +8,8 @@ requires. Built for curious high-school and early-college audiences.
 Drag to rotate the 3D stage, scroll to zoom, and step through each dimension to see how it
 grows out of the one before it.
 
+CLICK HERE TO SEE IT IN ACTION: https://damionwaltermeyer.github.io/11-dimensions/
+
 ---
 
 ## ✨ Features
